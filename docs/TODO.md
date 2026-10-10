@@ -4,9 +4,9 @@
 
 ## Week 0 — 准备（Day 0，0.5h）
 
-- [ ] 准备开发环境（Java 17、Maven/Gradle、Git、IDE、Docker） — 0.5h
+- [√] 准备开发环境（Java 17、Maven/Gradle、Git、IDE、Docker） — 0.5h
   - 验收：`java -version`、`mvn -v`、`docker --version` 能正常返回。
-- [ ] 创建 GitHub 仓库并 clone 到本地 — 0.5h
+- [√] 创建 GitHub 仓库并 clone 到本地 — 0.5h
   - 验收：本地已能 git pull / git push。
 
 ## Week 1 — 后端骨架 + CRUD（Day 1–5）
